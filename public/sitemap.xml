@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://www.myportofolioarya.my.id</loc>
+    <lastmod>2026-09-05T18:00:08.218Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.myportofolioarya.my.id/images/profile.jpeg</image:loc>
+      <image:title>Fakhri Arya Dzaki - Profil Resmi Siswa RPL SMKN 71 Jakarta</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.myportofolioarya.my.id/images/fechat.png</image:loc>
+      <image:title>Fechat - Real-time Messaging Platform</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.myportofolioarya.my.id/images/aryanokos.png</image:loc>
+      <image:title>ARYANOKOS - Virtual Number &amp; OTP Verification</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.myportofolioarya.my.id/images/aryashop.png</image:loc>
+      <image:title>ARYASHOP - Game Top-Up &amp; Digital Credit</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.myportofolioarya.my.id/images/infrastructure.png</image:loc>
+      <image:title>Server &amp; DevOps Infrastructure Control Panel</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dffphjdyrgztoqjwojtg.supabase.co/storage/v1/object/public/portfolio-assets/certificates/cert_1788631185812_s9zhg.jpg</image:loc>
+      <image:title>Belajar Membuat Front-End Web untuk Pemula - Sertifikat Resmi Fakhri Arya Dzaki</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dffphjdyrgztoqjwojtg.supabase.co/storage/v1/object/public/portfolio-assets/certificates/cert_1788599183577_5buc5.jpg</image:loc>
+      <image:title>Belajar Dasar Pemrograman Web - Sertifikat Resmi Fakhri Arya Dzaki</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dffphjdyrgztoqjwojtg.supabase.co/storage/v1/object/public/portfolio-assets/certificates/cert_1788599157416_e73g5.jpg</image:loc>
+      <image:title>Introduction to Financial Literacy - Sertifikat Resmi Fakhri Arya Dzaki</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dffphjdyrgztoqjwojtg.supabase.co/storage/v1/object/public/portfolio-assets/certificates/cert_1788599120620_1t8mc.jpg</image:loc>
+      <image:title>Belajar Dasar Pemrograman JavaScript - Sertifikat Resmi Fakhri Arya Dzaki</image:title>
+    </image:image>
+  </url>
+</urlset>

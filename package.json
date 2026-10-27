@@ -1,0 +1,37 @@
+{
+  "name": "myporto",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "node scripts/generate-sitemap.mjs && next build",
+    "sitemap": "node scripts/generate-sitemap.mjs",
+    "start": "next start",
+    "lint": "next lint",
+    "migrate:openmap": "node supabase/run_migration_openmap.mjs"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.46.1",
+    "clsx": "^2.1.1",
+    "framer-motion": "^11.11.17",
+    "groq-sdk": "^1.6.0",
+    "lucide-react": "^0.460.0",
+    "next": "^16.2.12",
+    "next-seo": "^7.3.0",
+    "pg": "^8.23.0",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "sweetalert2": "^11.26.25",
+    "tailwind-merge": "^2.5.4",
+    "tesseract.js": "^7.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.17.6",
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.4",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.15",
+    "typescript": "^5.6.3"
+  }
+}
